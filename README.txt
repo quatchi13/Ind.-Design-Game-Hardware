@@ -1,23 +1,29 @@
 Folder Breakdown (use this guide to help you navigate to what you need to find):
 
-AssignmentOne/ 
-	This folder houses all the peices that were used in the creation of Assignment One
+AssignmentTwo/ 
+	This folder houses all the peices that were used in the creation of Assignment Two
 
-AssignmentOne/Assignment1VideoImages/ 
-	This folder holds all additional images and screen shots used in the video
+AssignmentTwo/ExplodeAnim/ (Important)
+	This folder holds the exploded view animation
 
-AssignmentOne/DocumentImages-FullSize/ (Important)
-	This folder holds full size images of all hand drawn elements for an easy way to view
-		them more closely if need be
+AssignmentTwo/DocumentImages-FullSize/ (Important)
+	This folder holds full size images of all image elements from the pdf 
+		for an easy way to view them more closely if need be
 
-AssignmentOne/DrawingBackupSaves/
-	This folder holds the .kra files used to re-open the hand drawn images 
-		if I wish to edit tehm farther in the future
+AssignmentTwo/ExternalModels/ 
+	This folder holds all the models and assets from GrabCad that were used
 
-AssignmentOne/WrittenDocuments/ (Important)
-	This folder holds both the IEEE style paper and the full ideation process paper
+AssignmentTwo/IndividualParts/ 
+	This folder holds all the STEP files for each component
+
+AssignmentTwo/WrittenDocument/ (Important)
+	This folder holds the pdf with the parts of the assignment not in the video
+		eg. technicals drawings Tinkercad portions
 
 
 
-Video Link to associated Assignment One Video:
-https://youtu.be/247ng74IIQw
+Video Link to associated Assignment Two Video:
+https://youtu.be/4jEALHQbwUg
+
+Assosiated Assignment 2 PDF:
+https://docs.google.com/document/d/1rUWTsQTlXNJHaYIaJ0KRSzMRVHVE42CJ265GGiNfvMo/edit?usp=sharing
