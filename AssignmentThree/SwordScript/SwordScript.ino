@@ -16,13 +16,16 @@ void loop()
   digitalWrite(LED_BUILTIN, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 
-  if (analogRead(A1) > 0) {
+  if (analogRead(A1) > 5) {
     digitalWrite(2, HIGH);
   }
-  if (analogRead(A2) > 0) {
+  if (analogRead(A2) > 5) {
     digitalWrite(2, HIGH);
   }
-  if (analogRead(A3) > 0) {
+  if (analogRead(A3) > 5) {
     digitalWrite(2, HIGH);
+  }
+  if (analogRead(A1) <= 5 && (analogRead(A2) <= 5 && analogRead(A3) <= 5)) {
+    digitalWrite(2, LOW);
   }
 }
